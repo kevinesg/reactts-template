@@ -1,4 +1,4 @@
-# React-TS
+# reactts-template
 
 A minimalist boilerplate for quickly launching React projects with TypeScript and Vite.
 
@@ -30,7 +30,7 @@ A minimalist boilerplate for quickly launching React projects with TypeScript an
 #### 1. Clone the repository
 
 ```bash
-git clone git@github.com:kevinesg/react-TS.git your-project-name
+git clone git@github.com:kevinesg/reactts-template.git your-project-name
 cd your-project-name
 ```
 
@@ -59,7 +59,7 @@ rm -rf .git
 git init
 git remote add origin git@github.com:your-username/your-project-name.git
 git add .
-git commit -m "initialized project from react-TS template"
+git commit -m "initialized project from reactts-template template"
 git branch -M main
 git push -u origin main
 ```
